@@ -1,19 +1,8 @@
 <div align="center">
 
-<!-- BANNER SVG inline via img tag workaround — use the SVG file below -->
+![Banner](https://raw.githubusercontent.com/Lucass-devjr/Lucass-devjr/main/banner.svg)
 
-```
-██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗    ██████╗ ███████╗██╗   ██╗
-██║     ██║   ██║██╔════╝██╔══██╗██╔════╝    ██╔══██╗██╔════╝██║   ██║
-██║     ██║   ██║██║     ███████║███████╗    ██║  ██║█████╗  ██║   ██║
-██║     ██║   ██║██║     ██╔══██║╚════██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝
-███████╗╚██████╔╝╚██████╗██║  ██║███████║    ██████╔╝███████╗ ╚████╔╝ 
-╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  
-```
-
-### Full Stack Developer · B2B Platforms · Automation · ERP Integration
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Building+Nova+Connect+%F0%9F%9A%80;Automating+workflows+with+n8n;React+%2B+Next.js+%2B+Prisma+%2B+Supabase;Always+shipping+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Building+Nova+Connect+%F0%9F%9A%80;Automating+workflows+with+n8n;React+%2B+Next.js+%2B+Prisma+%2B+Supabase;Always+shipping+something+new)](https://git.io/typing-svg)
 
 </div>
 
