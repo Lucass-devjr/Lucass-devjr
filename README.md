@@ -83,14 +83,14 @@ const lucas = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=LucasADvorak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasADvorak&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lucass-devjr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-devjr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LucasADvorak&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lucass-devjr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -100,9 +100,9 @@ const lucas = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-instagram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-santos-sales-5b32b4274)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advorakcontato@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.lucasjr)
 
 </div>
 
@@ -112,6 +112,6 @@ const lucas = {
 
 *"Transformo sistemas legados em plataformas escaláveis — um commit de cada vez."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=LucasADvorak&color=4F8EF7&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Lucass-devjr&color=4F8EF7&style=flat-square)
 
 </div>
