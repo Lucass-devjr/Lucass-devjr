@@ -104,6 +104,4 @@ const lucas = {
 
 *"Transformo sistemas legados em plataformas escaláveis — um commit de cada vez."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lucass-devjr&color=4F8EF7&style=flat-square)
-
 </div>
