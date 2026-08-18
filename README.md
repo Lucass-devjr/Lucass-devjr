@@ -82,11 +82,18 @@ const lucas = {
 
 <div align="center">
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| [⬡ LinkVault](https://github.com/Lucass-devjr/link-vault) | Encurtador de links com analytics | Next.js · Supabase · Prisma |
-| [💰 Price Watcher Bot](https://github.com/Lucass-devjr/price-watcher-bot) | Monitor de preços ML + Amazon | Node.js · Cheerio · Z-API |
-| [◈ DevCard](https://lucass-devjr.github.io/devcard) | Gerador de cards GitHub | HTML · CSS · GitHub API |
+<a href="https://github.com/Lucass-devjr/Nova-Acessorios">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucass-devjr&repo=Nova-Acessorios&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Lucass-devjr/link-vault">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucass-devjr&repo=link-vault&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Lucass-devjr/price-watcher-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucass-devjr&repo=price-watcher-bot&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://lucass-devjr.github.io/devcard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucass-devjr&repo=devcard&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
