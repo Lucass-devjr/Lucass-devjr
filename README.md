@@ -78,11 +78,15 @@ const lucas = {
 
 ---
 
-## `05 // CONTRIBUTION_MATRIX`
+## `05 // PROJECTS`
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucass-devjr&theme=react-dark&hide_border=true&area=true)](https://github.com/Lucass-devjr)
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [⬡ LinkVault](https://github.com/Lucass-devjr/link-vault) | Encurtador de links com analytics | Next.js · Supabase · Prisma |
+| [💰 Price Watcher Bot](https://github.com/Lucass-devjr/price-watcher-bot) | Monitor de preços ML + Amazon | Node.js · Cheerio · Z-API |
+| [◈ DevCard](https://lucass-devjr.github.io/devcard) | Gerador de cards GitHub | HTML · CSS · GitHub API |
 
 </div>
 
