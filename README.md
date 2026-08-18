@@ -82,18 +82,13 @@ const lucas = {
 
 <div align="center">
 
-<a href="https://github.com/Lucass-devjr/Nova-Acessorios">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucass-devjr&repo=Nova-Acessorios&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Lucass-devjr/link-vault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucass-devjr&repo=link-vault&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Lucass-devjr/price-watcher-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucass-devjr&repo=price-watcher-bot&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://lucass-devjr.github.io/devcard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucass-devjr&repo=devcard&theme=tokyonight&hide_border=true" />
-</a>
+[![LinkVault](https://img.shields.io/badge/⬡_LinkVault-Encurtador_de_links_com_analytics-4F8EF7?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/Lucass-devjr/link-vault)
+
+[![Price Watcher](https://img.shields.io/badge/💰_Price_Watcher-Monitor_de_preços_ML_+_Amazon-00c6a7?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/Lucass-devjr/price-watcher-bot)
+
+[![DevCard](https://img.shields.io/badge/◈_DevCard-Gerador_de_cards_GitHub-7B61FF?style=for-the-badge&logo=github&logoColor=white)](https://lucass-devjr.github.io/devcard)
+
+[![Nova Connect](https://img.shields.io/badge/🚀_Nova_Connect-Plataforma_B2B_automotiva_(privado)-ff4d6d?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
